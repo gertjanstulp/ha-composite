@@ -1,0 +1,9 @@
+{
+  "domain": "composite",
+  "name": "Composite",
+  "version": "2.2.0",
+  "documentation": "https://github.com/gertjanstulp/ha-composite",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@gertjanstulp"]
+}
