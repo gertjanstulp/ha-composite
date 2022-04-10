@@ -1,5 +1,5 @@
 """Constants for Composite Integration."""
-DOMAIN = "composite"
+DOMAIN = "sm_composite"
 
 CONF_REQ_MOVEMENT = "require_movement"
 CONF_TIME_AS = "time_as"

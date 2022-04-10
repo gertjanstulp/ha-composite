@@ -1,7 +1,7 @@
 {
-  "domain": "composite",
+  "domain": "sm_composite",
   "name": "Composite",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "documentation": "https://github.com/gertjanstulp/ha-composite",
   "requirements": [],
   "dependencies": [],
